@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nrw0wlm3sfA=",
+  "success": true,
+  "projectFilePath": "C:\\laragon\\www\\pratyc_4\\DinoJumpComunitario\\DinoJumpComunitario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno.furlan\\.nuget\\packages\\microsoft.win32.systemevents\\10.0.9\\microsoft.win32.systemevents.10.0.9.nupkg.sha512",
+    "C:\\Users\\bruno.furlan\\.nuget\\packages\\opencvsharp4\\4.13.0.20260627\\opencvsharp4.4.13.0.20260627.nupkg.sha512",
+    "C:\\Users\\bruno.furlan\\.nuget\\packages\\opencvsharp4.extensions\\4.13.0.20260627\\opencvsharp4.extensions.4.13.0.20260627.nupkg.sha512",
+    "C:\\Users\\bruno.furlan\\.nuget\\packages\\opencvsharp4.runtime.win\\4.13.0.20260627\\opencvsharp4.runtime.win.4.13.0.20260627.nupkg.sha512",
+    "C:\\Users\\bruno.furlan\\.nuget\\packages\\opencvsharp4.windows\\4.13.0.20260627\\opencvsharp4.windows.4.13.0.20260627.nupkg.sha512",
+    "C:\\Users\\bruno.furlan\\.nuget\\packages\\opencvsharp4.wpfextensions\\4.13.0.20260627\\opencvsharp4.wpfextensions.4.13.0.20260627.nupkg.sha512",
+    "C:\\Users\\bruno.furlan\\.nuget\\packages\\system.drawing.common\\10.0.9\\system.drawing.common.10.0.9.nupkg.sha512",
+    "C:\\Users\\bruno.furlan\\.nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512",
+    "C:\\Users\\bruno.furlan\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.33\\microsoft.netcore.app.ref.8.0.33.nupkg.sha512",
+    "C:\\Users\\bruno.furlan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.33\\microsoft.windowsdesktop.app.ref.8.0.33.nupkg.sha512",
+    "C:\\Users\\bruno.furlan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.33\\microsoft.aspnetcore.app.ref.8.0.33.nupkg.sha512",
+    "C:\\Users\\bruno.furlan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.33\\microsoft.netcore.app.host.win-x64.8.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}

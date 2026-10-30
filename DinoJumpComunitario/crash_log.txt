@@ -1,0 +1,8 @@
+================================================================================
+DINO JUMP INTERATIVO - REGISTRO DE EXECUÇÃO E ERROS
+Arquivo: crash_log.txt
+Localização: C:\laragon\www\pratyc_4\DinoJumpComunitario\crash_log.txt
+Sistema Operacional: Microsoft Windows
+Runtime: .NET 8.0
+Status: Monitoramento ativo. Qualquer falha, erro de câmera ou crash será gravado aqui.
+================================================================================
