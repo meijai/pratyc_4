@@ -6,13 +6,12 @@ Projeto de extensão universitária desenvolvido em **C# (.NET 8 Windows Forms)*
 
 ## 📋 Sumário
 1. [Sobre o Projeto](#-sobre-o-projeto)
-2. [Recursos Principais](#-recursos-principais)
-3. [Pré-requisitos](#-pré-requisitos)
-4. [Como Instalar e Executar (Passo a Passo)](#-como-instalar-e-executar-passo-a-passo)
-5. [Tutorial de Uso e Como Jogar](#-tutorial-de-uso-e-como-jogar)
-6. [Conexão da Câmera (Webcam ou Celular)](#-conexão-da-câmera-webcam-ou-celular)
-7. [Privacidade e LGPD](#-privacidade-e-lgpd)
-8. [Estrutura do Repositório](#-estrutura-do-repositório)
+2. [Pré-requisitos](#-pré-requisitos)
+3. [Como Instalar e Executar (Passo a Passo)](#-como-instalar-e-executar-passo-a-passo)
+4. [Tutorial de Uso e Como Jogar](#-tutorial-de-uso-e-como-jogar)
+5. [Conexão da Câmera (Webcam ou Celular)](#-conexão-da-câmera-webcam-ou-celular)
+6. [Privacidade e LGPD](#-privacidade-e-lgpd)
+7. [Estrutura do Repositório](#-estrutura-do-repositório)
 
 ---
 
