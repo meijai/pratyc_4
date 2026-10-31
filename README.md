@@ -20,15 +20,6 @@ Projeto de extensão universitária desenvolvido em **C# (.NET 8 Windows Forms)*
 
 O **Dino Jump Comunitário** foi concebido para eventos de extensão, feiras de ciências e estandes comunitários. Seu objetivo é engajar o público de todas as idades de forma acessível e interativa, unindo computação gráfica, visão computacional e gamificação.
 
----
-
-## ✨ Recursos Principais
-
-- **Detecção de Movimento em Tempo Real:** Captura os pulos do jogador utilizando algoritmos de subtração de quadros (`Cv2.Absdiff`) e zonas de interesse (ROI).
-- **Suporte a Múltiplas Câmeras:** Funciona tanto com Webcams USB/integradas quanto com câmeras de celular conectadas via Wi-Fi (DroidCam, IP Webcam, RTSP).
-- **Controles Alternativos:** Permite jogar pelo teclado (barra de espaço ou seta para cima) a qualquer momento.
-- **Placar de Sessão Volátil:** Mantém o recorde da sessão em memória sem necessidade de banco de dados externo ou cadastros.
-- **Logs de Diagnóstico:** Sistema automático de tolerância a falhas com geração de `crash_log.txt`.
 
 ---
 
@@ -38,7 +29,7 @@ Para compilar e executar o código fonte na sua máquina:
 
 1. **Sistema Operacional:** Windows 10 ou Windows 11 (64 bits).
 2. **.NET 8.0 SDK:** [Baixar .NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0).
-3. **Câmera:** Webcam USB/integrada ou celular na mesma rede Wi-Fi.
+3. **Câmera:** Celular na mesma rede Wi-Fi.
 4. *(Opcional)* **Visual Studio 2022** ou **Visual Studio Code** com extensão C# Dev Kit.
 
 ---
@@ -76,8 +67,7 @@ Para compilar e executar o código fonte na sua máquina:
 ## 🎮 Tutorial de Uso e Como Jogar
 
 1. **Seleção de Câmera:**
-   - Ao iniciar, a aplicação abrirá uma janela para escolha do dispositivo de captura de vídeo:
-     - **Webcam Integrada / USB:** Selecione o índice da câmera (geralmente `0`).
+   - Ao iniciar, pressione a tecla "D" que abrirá uma janela para escolha do dispositivo de captura de vídeo:
      - **Câmera Wi-Fi (Celular):** Insira a URL do stream (ex: `http://192.168.1.100:4747/video`).
    - Se preferir testar sem câmera, você pode fechar a janela de seleção e jogar diretamente pelo teclado.
 
@@ -98,7 +88,6 @@ Para compilar e executar o código fonte na sua máquina:
 
 ## 📱 Conexão da Câmera (Webcam ou Celular)
 
-Caso o computador não possua webcam integrada:
 1. Instale um aplicativo gratuito de câmera IP no celular, como **DroidCam** ou **IP Webcam** (disponíveis na Google Play Store e Apple App Store).
 2. Conecte o celular e o computador na **mesma rede Wi-Fi**.
 3. Abra o app no celular e anote o endereço exibido (exemplo: `http://192.168.0.15:4747/video`).
@@ -118,7 +107,7 @@ Caso o computador não possua webcam integrada:
 
 ```text
 pratyc_4/
-├── DinoJumpComunitario/             # Código-fonte da aplicação C#
+├── DinoJumpComunitario/            # Código-fonte da aplicação C#
 │   ├── DinoJumpComunitario.csproj  # Configuração do projeto e dependências NuGet
 │   ├── Program.cs                  # Ponto de entrada e tratamento global de erros
 │   ├── Form1.cs                    # Lógica do jogo, física, renderização e OpenCV
